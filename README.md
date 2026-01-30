@@ -5,7 +5,7 @@ Each dashboard is designed to provide clear insights, interactive visuals, and d
 | #  | Dashboard Name | Description | Link |
 |----|----------------|-------------|------|
 | 1  | **Covid - 19 in Denmark (2022 - 2024)** | Tracks reported covid cases, KPIs, trends, and regional statistics. | [View](./Covid19.pbix) |
-| 2  | **When was the Golden Age og Gaaming? (1981 - 2020)** | Provides insights on top selling video games released 1981 - 2020. Tracks KPIs, units sold by each video game and platform, and critic/user score reviews | [View](./Golden_Age of_Gaming.pbix) |
+| 2  | **When was the Golden Era of Video Games? (1981 - 2020)** | Provides insights on top selling video games released 1981 - 2020. Tracks KPIs, growth trends, crtitc and user ratings units sold statistics. | [View](./When was the Golden Era of Video Games.pbix) |
 
 
 ---
